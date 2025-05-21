@@ -3,6 +3,7 @@ text-align: center;
 }
 
 div {
+  font-family: "Amiri", sans-serif;
   display: flex;
   text-align: center;
   justify-content: center; /* Align horizontally */
