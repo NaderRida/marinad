@@ -4,6 +4,7 @@ text-align: center;
 
 div {
   display: flex;
+  text-align: center;
   justify-content: center; /* Align horizontally */
   align-items: center;    /* Align vertically */
   font-size: 30px/* Full viewport height (optional) */
