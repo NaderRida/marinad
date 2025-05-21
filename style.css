@@ -2,9 +2,7 @@
 
 div {
   display: flex;
-  background-color: #FFF4A3;
   justify-content: center; /* Align horizontally */
   align-items: center;    /* Align vertically */
-  height: 100vh;  
-   font-size: 30px/* Full viewport height (optional) */
+  font-size: 30px/* Full viewport height (optional) */
 }
