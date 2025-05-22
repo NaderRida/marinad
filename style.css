@@ -1,8 +1,10 @@
-
+*{
+   font-family: "Amiri", sans-serif;
+}
 ul{
   font-size: 40px;
   font-weight: bold;
-  font-family: "Amiri", sans-serif;
+ 
 }
 
 h1{
@@ -10,7 +12,7 @@ text-align: center;
 }
 
 div {
-  font-family: "Amiri", sans-serif;
+  
   display: flex;
   text-align: center;
   justify-content: center; /* Align horizontally */
