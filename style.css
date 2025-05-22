@@ -1,5 +1,20 @@
-
 * {
-  font-size: 30px
-alignment: center;
+   font-family: "Amiri", sans-serif;
+}
+ul{
+  font-size: 40px;
+  font-weight: bold;
+ 
+}
+
+h1{
+text-align: center;
+}
+
+div {
+  
+  display: flex;
+  text-align: center;
+  justify-content: center; /* Align horizontally */
+  font-size: 30px/* Full viewport height (optional) */
 }
