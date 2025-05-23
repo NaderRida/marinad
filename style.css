@@ -21,6 +21,6 @@ div {
   justify-content: center; /* Align horizontally */
   font-size: 30px/* Full viewport height (optional) */
 }
-div.mar::first-letter{
+.mar::first-letter{
 color: red;
 }
