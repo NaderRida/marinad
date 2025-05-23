@@ -1,3 +1,4 @@
+
 * {
    font-family: "Amiri", sans-serif;
 }
@@ -19,4 +20,7 @@ div {
   text-align: center;
   justify-content: center; /* Align horizontally */
   font-size: 30px/* Full viewport height (optional) */
+}
+div.mar::first-letter{
+color: red;
 }
