@@ -2,6 +2,7 @@
    font-family: "Amiri", sans-serif;
 }
 ul{
+   list-style-type: none;
    text-align: center;
   font-size: 40px;
   font-weight: bold;
