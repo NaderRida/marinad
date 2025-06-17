@@ -25,6 +25,7 @@ div {
 
 .Bnote
 {
+   padding: 25px;
     background-color: orange;
    font-size: 18px;
 }
