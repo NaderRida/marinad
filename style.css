@@ -23,7 +23,7 @@ div {
   font-size: 30px/* Full viewport height (optional) */
 }
 
-#note
+.note
 {
    font-size: 25px;
 }
