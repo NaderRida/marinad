@@ -22,7 +22,9 @@ div {
   justify-content: center; /* Align horizontally */
   font-size: 30px/* Full viewport height (optional) */
 }
-
+.newtag{
+background-color: yellow;
+}
 .Bnote
 {
    padding: 25px;
